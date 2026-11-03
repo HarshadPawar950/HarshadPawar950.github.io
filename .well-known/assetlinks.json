@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vastupropsai.app",
+      "sha256_cert_fingerprints": [
+        "9E:EC:68:25:EF:4E:45:EB:22:37:FC:C9:58:AE:77:60:6B:B5:E3:49:7B:C8:8B:EF:F9:BC:9E:94:7B:20:54:09"
+      ]
+    }
+  }
+]
